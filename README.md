@@ -40,6 +40,6 @@ async def organik(ctx):
     await ctx.send(sampah_organik())
 
 
-bot.run("MTE1NDc2NzcyNjYxNTczMjIyNA.GBTYWP.nwaKm_cAwvFYZRIfPA6j16vOtLbQfdDJjHz1bk")
+bot.run("token di sini")
 
 
